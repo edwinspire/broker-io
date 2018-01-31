@@ -1,0 +1,30 @@
+{
+  "name": "distributed-message-system-io",
+  "version": "0.0.1",
+  "description": "distributed-message-system-io to NodeJS",
+  "main": "./lib/distributed-message-system-io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinspire/distributed-message-system-io.git"
+  },
+  "keywords": [
+    "GVFS",
+    "Linux",
+    "Shared",
+    "SMB",
+    "Samba"
+  ],
+  "author": "Edwin De La Cruz (edwinspire)",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/edwinspire/gvfs-mount-js/issues"
+  },
+  "homepage": "https://github.com/edwinspire/gvfs-mount-js#readme",
+  "dependencies": {
+    "nan": "^2.7.0",
+    "node-gyp": "^3.6.2"
+  }
+}
