@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Open Monitoring System",
+  "main": "test.js",
+  "dependencies": {
+    "@xmpp/client": "^0.3.0",
+    "@xmpp/xml": "^0.3.0",
+    "compression": "^1.7.1",
+    "log": "^1.4.0",
+    "node-xmpp": "^1.1.0",
+    "nodemailer": "^4.0.1",
+    "path": "^0.12.7",
+    "pg": "^6.2.4",
+    "pg-pool": "^1.7.1",
+    "promise": "^7.1.1",
+    "socket.io": "^2.0.3"
+  },
+  "keywords": [
+    "OMS"
+  ],
+  "author": "Edwin De La Cruz",
+  "license": "LGPL",
+  "private": true
+}
