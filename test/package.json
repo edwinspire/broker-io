@@ -4,6 +4,9 @@
   "description": "Open Monitoring System",
   "main": "test.js",
   "dependencies": {
+    "@dojo/core": "^0.3.1",
+    "@dojo/has": "^0.1.2",
+    "@dojo/shim": "^0.2.5",
     "@xmpp/client": "^0.3.0",
     "@xmpp/xml": "^0.3.0",
     "compression": "^1.7.1",
@@ -13,8 +16,10 @@
     "path": "^0.12.7",
     "pg": "^6.2.4",
     "pg-pool": "^1.7.1",
+    "pg-queue-io": "^0.0.1",
     "promise": "^7.1.1",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.4"
   },
   "keywords": [
     "OMS"
