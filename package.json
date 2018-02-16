@@ -1,14 +1,14 @@
 {
-  "name": "pg-queue-io",
+  "name": "broker-io",
   "version": "0.0.1",
-  "description": "pg-queue-io to NodeJS",
-  "main": "./lib/pg-queue-io",
+  "description": "broker-io to NodeJS",
+  "main": "./lib/broker-io",
   "scripts": {
     "test": "./test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edwinspire/pg-queue-io"
+    "url": "git+https://github.com/edwinspire/broker-io"
   },
   "keywords": [
     "GVFS",
@@ -20,9 +20,9 @@
   "author": "Edwin De La Cruz (edwinspire)",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/edwinspire/pg-queue-io/issues"
+    "url": "https://github.com/edwinspire/broker-io/issues"
   },
-  "homepage": "https://github.com/edwinspire/pg-queue-io#readme",
+  "homepage": "https://github.com/edwinspire/broker-io#readme",
   "dependencies": {
     "@dojo/core": "^0.3.1",
     "@dojo/has": "^0.1.2",

@@ -1,9 +1,6 @@
-Distributed Message System to NodeJS!
+Broker to NodeJS!
 ===================
 
-This is a **GVFS** wrapper designed to work with NodeJS under linux.
-
-Requires having **gvfs-bin** installed on your linux distribution.
 
 ----------
 
@@ -11,7 +8,7 @@ Requires having **gvfs-bin** installed on your linux distribution.
 Install
 -------------
 
-    npm i gvfs-mount-js
+    npm i broker-io -S
 
 > **Note:**
 
