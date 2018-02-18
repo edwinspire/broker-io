@@ -1,4 +1,4 @@
-var app = require('pg-queue-io');
+var app = require('broker-io');
 
 var a = new app();
 
